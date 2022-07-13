@@ -15,8 +15,15 @@
       "supportUrl": "https://github.com/turkersenturk-r2s/tsq-google-data-studio-connector/issues",
       "description": "Google data studio connector for TurkishSouq data. This data contains seller count, sold product count etc.",
       "shortDescription": "Report Service for TurkishSouq",
+      "privacyPolicyUrl": "https://www.pttavm.com/sayfa/gizlilik-politikasi.html",
+      "termsOfServiceUrl": "https://www.pttavm.com/sayfa/uyelik-sozlesmesi.html",
+      "authType": ["NONE"],
+      "feeType": ["FREE"],
       "sources": [
         "npm"
       ]
-    }
+    },
+    "urlFetchWhitelist": [
+        "http://api.v2.ready2sale.com"
+      ]
   }
