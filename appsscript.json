@@ -11,8 +11,8 @@
       "logoUrl": "https://cdn.shopify.com/s/files/1/0625/3586/0463/files/turkishsouq_PNG_new_logo_73bafcd1-4a76-4a25-a14e-171a231f2bfb_155x@2x.png?v=1648044962",
       "company": "Pttem",
       "companyUrl": "https://www.pttem.com/",
-      "addonUrl": "https://github.com/google/datastudio/tree/master/community-connectors/npm-downloads",
-      "supportUrl": "https://github.com/google/datastudio/issues",
+      "addonUrl": "https://github.com/turkersenturk-r2s/tsq-google-data-studio-connector",
+      "supportUrl": "https://github.com/turkersenturk-r2s/tsq-google-data-studio-connector/issues",
       "description": "Google data studio connector for TurkishSouq data. This data contains seller count, sold product count etc.",
       "shortDescription": "Report Service for TurkishSouq",
       "sources": [
